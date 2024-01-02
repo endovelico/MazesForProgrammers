@@ -19,5 +19,7 @@ class Sidewinder
     end
   end
       grid
+      ##img = grid.to_png
+      ##img.save "maze.png"
 end
 
